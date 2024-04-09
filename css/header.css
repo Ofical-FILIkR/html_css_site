@@ -1,0 +1,46 @@
+
+.header {
+    height: 40px;
+
+    background-color: #0E8388;
+    
+    display: flex;
+    /* justify-content: center; */
+    flex-direction: row;
+
+
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+.img_www {
+    height: 40px;
+    margin-right: 10px;
+}
+
+.header_title {
+    margin: 5px;
+
+    font-weight: 800;
+    font-size: 25px;
+}
+
+.header_menu {
+    margin-left: 40px;
+    margin-top: 12px;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.menu_item {
+    font-weight: 600;
+    text-decoration: none;
+
+    margin-right: 20px;
+}
+
+.menu_item_active {
+    text-decoration:underline;
+}
+
