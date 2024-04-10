@@ -1,6 +1,6 @@
 
 .header {
-    height: 40px;
+    
 
     background-color: #0E8388;
     
@@ -13,7 +13,7 @@
     margin-bottom: 50px;
 }
 
-.img_www {
+.img_www_header {
     height: 40px;
     margin-right: 10px;
 }
